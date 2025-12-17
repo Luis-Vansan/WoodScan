@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/wood_scan_logo_semfundo.png" alt="WoodScan Logo" width="200">
+</p>
+
 # WoodScan
 
 O **WoodScan** é um aplicativo Android desenvolvido com foco na **classificação de qualidade de madeira** por meio de **visão computacional e inteligência artificial**.  
